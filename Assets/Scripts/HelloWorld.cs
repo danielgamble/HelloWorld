@@ -9,6 +9,8 @@ public class HelloWorld : MonoBehaviour // I forgot the u in MonoBehaviour the f
     {
         Debug.Log("Hello World");
         Debug.Log("Hello Again");
+        Debug.Log("And Again");
+        
     }
 
     // Update is called once per frame and continues until we tell it to stop.
